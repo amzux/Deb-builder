@@ -2,7 +2,7 @@ Package: Template
 Version: 0.1 
 Architecture: all 
 Maintainer: Amzker 
-pl
+
 
 Section: testing
 Priority: optional
