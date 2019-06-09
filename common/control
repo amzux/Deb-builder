@@ -2,8 +2,8 @@ Package: Template
 Version: 0.1 
 Architecture: all 
 Maintainer: Amzker 
-Installed-Size: 10
-Depends: bash 
+pl
+
 Section: testing
 Priority: optional
 Homepage: http://github.com/amzux
